@@ -175,3 +175,8 @@ while game == 1:
         keep = 0
         game = 0
 
+
+print("\nThanks for playing!!!")
+
+
+

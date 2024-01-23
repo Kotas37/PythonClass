@@ -178,5 +178,5 @@ while game == 1:
 
 print("\nThanks for playing!!!")
 
-
+password = "ABC123"
 
